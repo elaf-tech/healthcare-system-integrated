@@ -1,4 +1,56 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 🏥 Healthcare Management Ecosystem
+**A Premium Integrated Solution for Patients, Doctors, and Administrators.**
+
+---
+
+## 📸 System Showcase
+
+### 📱 Mobile Experience (Patient App)
+Built with **Flutter**, featuring a modern and luxury UI for seamless healthcare access.
+
+<p align="center">
+  <img src="screenshots/Screenshot (4796).png" width="180" />
+  <img src="screenshots/Screenshot (4797).png" width="180" />
+  <img src="screenshots/Screenshot (4798).png" width="180" />
+  <img src="screenshots/Screenshot (4799).png" width="180" />
+</p>
+<p align="center">
+  <img src="screenshots/Screenshot (4800).png" width="180" />
+  <img src="screenshots/Screenshot (4801).png" width="180" />
+  <img src="screenshots/Screenshot (4802).png" width="180" />
+  <img src="screenshots/Screenshot (4803).png" width="180" />
+</p>
+
+---
+
+### 💻 Web Administration & Doctor Portals
+High-performance dashboards built with **Laravel, Livewire, and MySQL**.
+
+#### 👨‍⚕️ Doctor Dashboard & Consultations
+| Patient Management | Medical Reports | Secure Chat |
+| :---: | :---: | :---: |
+| <img src="screenshots/Screenshot (4804).png" width="300"> | <img src="screenshots/Screenshot (4805).png" width="300"> | <img src="screenshots/Screenshot (4806).png" width="300"> |
+| <img src="screenshots/Screenshot (4807).png" width="300"> | <img src="screenshots/Screenshot (4808).png" width="300"> | <img src="screenshots/Screenshot (4809).png" width="300"> |
+
+#### ⚙️ Admin Control Center
+| Analytics & Overview | User Control | Lab & Records |
+| :---: | :---: | :---: |
+| <img src="screenshots/Screenshot (4810).png" width="300"> | <img src="screenshots/Screenshot (4811).png" width="300"> | <img src="screenshots/Screenshot (4812).png" width="300"> |
+| <img src="screenshots/Screenshot (4813).png" width="300"> | <img src="screenshots/Screenshot (4814).png" width="300"> | <img src="screenshots/Screenshot (4815).png" width="300"> |
+
+---
+
+## 🛠 Technical Stack
+*   **Backend:** Laravel (Robust API & Logic)
+*   **Frontend Web:** Livewire (Real-time reactivity)
+*   **Mobile App:** Flutter (Cross-platform Excellence)
+*   **Database:** MySQL (Optimized Relational Data)
+
+## 🚀 Key Modules
+*   **Patient:** Appointment booking, browsing specialists, and digital medical history.
+*   **Doctor:** Schedule management, report uploading, and real-time patient consultations.
+*   **Admin:** Full system oversight, statistics, and user authorization management.
+<!-- <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -58,4 +110,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
